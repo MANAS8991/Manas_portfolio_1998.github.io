@@ -4,7 +4,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://manas8991.github.io/Manas_portfolio_1998.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
